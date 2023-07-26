@@ -1,0 +1,5 @@
+{
+  "title": "Hello!",
+  "description": "Where are you?",
+  "variable": "Using a variable: {{count}}"
+}
