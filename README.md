@@ -19,6 +19,7 @@ This repository is a monorepo designed to showcase my journey through different 
 | Remix             | 🐢   | -                   |                        | -    | -    |
 | NestJS w. Fastify | 🐢   | -                   |                        | -    | -    |
 | NestJS w. Express | 🐢   | -                   |                        | -    | -    |
+| PHP - Laravel     | 🐢   | -                   |                        | -    | -    |
 
 ## TODO
 
